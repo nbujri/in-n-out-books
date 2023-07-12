@@ -1,2 +1,6 @@
-# in-n-out-books
-WEB 425: in-n-out-books
+# WEB 425: In-N-Out-Books
+
+## Contributors
+
+- Ngi Bujri
+- Richard Krasso
